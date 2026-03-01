@@ -5,4 +5,6 @@ Table of Contents:         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbs
 
 [Airline Feedback Exploratory Data Analysis](https://github.com/lamontdobbins3-stack/DataScience/blob/main/Airline_Feedback_EDA.ipynb) ....... Customer Intelligence
 
+[Depression_Risk_Analysis_Reddit](https://github.com/lamontdobbins3-stack/DataScience/blob/main/Depression_Risk_Analysis_Reddit.ipynb) ...... Public Health
+
 [Spark & MapReduce to Explore Passanger Types](https://github.com/lamontdobbins3-stack/DataScience/blob/main/Spark%26MapReduce.ipynb) ....... Customer Intelligence
