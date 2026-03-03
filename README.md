@@ -7,6 +7,6 @@ Table of Contents:         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbs
 
 [Early Depression Risk Prediction Reddit](https://github.com/lamontdobbins3-stack/DataScience/blob/main/Depression_Risk_Analysis_Reddit.ipynb) ...... Public Health
 
-[LoanApprovalPrediction](https://github.com/lamontdobbins3-stack/DataScience/blob/main/LoanApprovalPrediction.ipynb) ........ Finance
+[LoanApprovalPrediction](https://github.com/lamontdobbins3-stack/DataScience/blob/main/LoanApprovalPrediction.ipynb) .................... Finance
 
 [Spark & MapReduce to Explore Passanger Types](https://github.com/lamontdobbins3-stack/DataScience/blob/main/Spark%26MapReduce.ipynb) ....... Customer Intelligence
